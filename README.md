@@ -25,13 +25,11 @@ Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Deskt
 <img width="942" alt="Scherm­afbeelding 2025-04-16 om 10 35 34" src="https://github.com/user-attachments/assets/84a6ec1d-1cc0-4336-be96-1f30994acb32" />
 
 
-
-
-
-
-
-
 Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
+
+Uit alle testen is gebleken dat de website over het algemeen goed presteert. De enige dingen die belangrijk zijn om te veranderen zijn de grootten van de afbeeldingen en het gebruiken van nieuwe formats om afbeeldingen te renderen. Ook is het handig als de LCP wordt gepreload om zo ervoor te zorgen dat het inladen minder lang duurt.
+
+https://github.com/RenzoWille/performance-audit/wiki/Documentatie-performance-audit-van-Assmann-Schilderwerken
 
 ## Licentie
 
