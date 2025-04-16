@@ -22,7 +22,9 @@ Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Deskt
 <img width="1440" alt="Scherm­afbeelding 2025-04-16 om 10 14 39" src="https://github.com/user-attachments/assets/4af2041f-88b5-40a7-95c4-fbe99aac4be7" />
 <img width="1440" alt="Scherm­afbeelding 2025-04-16 om 10 14 49" src="https://github.com/user-attachments/assets/8827bac1-71af-4b38-a95e-f18aedbab7c7" />
 <img width="1440" alt="Scherm­afbeelding 2025-04-16 om 10 14 55" src="https://github.com/user-attachments/assets/471cf4ae-13d3-4958-b5c3-419c85ad9fe5" />
-![waterfall](https://github.com/user-attachments/assets/02f132f0-ed3f-4ca6-8d19-1adb84cb128e)
+<img width="942" alt="Scherm­afbeelding 2025-04-16 om 10 35 34" src="https://github.com/user-attachments/assets/84a6ec1d-1cc0-4336-be96-1f30994acb32" />
+
+
 
 
 
